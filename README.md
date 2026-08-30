@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashu</h1>
-<h3 align="center">Aspiring Medical Student | Engineering Undergrad | Deep Learning Enthusiast</h3>
+<h3 align="center"> Engineering Undergrad | Deep Learning Enthusiast</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
