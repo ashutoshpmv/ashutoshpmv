@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **AI for Healthcare**  
 - 🤝 I’m open to helping with **Python, ML/DL Projects**  
 - 💬 Ask me about **Neural Networks, CNNs, Flask apps**  
-- 📫 Reach me at: **ashutoshpmv@example.com**  <!-- Replace with your real email -->
+- 📫 Reach me at: **ashutoshpmv@gmail.com**  <!-- Replace with your real email -->
 
 
 ---
