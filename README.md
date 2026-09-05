@@ -9,7 +9,7 @@
 - 🤝 I’m open to helping with **Python, ML/DL Projects**  
 - 💬 Ask me about **Neural Networks, CNNs, Flask apps**  
 - 📫 Reach me at: **ashutoshpmv@example.com**  <!-- Replace with your real email -->
-- ⚡ Fun fact: *I’m an engineering student studying for medical entrance 😄*
+
 
 ---
 
