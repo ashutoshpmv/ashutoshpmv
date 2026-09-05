@@ -310,29 +310,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpmv&
 </div>
 
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashutoshpmv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
 
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpmv&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
----
 
 # 🌐 Connect With Me
 
@@ -374,7 +353,24 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpmv&
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ashutoshpmv/ashutoshpmv/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ashutoshpmv/ashutoshpmv/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ashutoshpmv/ashutoshpmv/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ashutoshpmv/ashutoshpmv/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
 
 </div>
 
